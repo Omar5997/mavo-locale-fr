@@ -1,5 +1,6 @@
 Mavo.Locale.register("fr", {
 	"edit": "Modifier",
+	"editing": "Modification",
 	"save": "Enregistrer",
 	"clear": "Vider",
 	"logout": "Déconnexion",
